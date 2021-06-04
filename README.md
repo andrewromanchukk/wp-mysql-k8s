@@ -1,1 +1,1 @@
-ololo
+Need to convert *.yaml files to .tf for all services should be raised by one command like [terraform apply] and need to add [on-demand] option
