@@ -1,1 +1,2 @@
-Need to convert *.yaml files to .tf for all services should be raised by one command like [terraform apply] and need to add [on-demand] option
+1. run [terraform apply] to raise infrastructure with EFK stack
+2. deploy wp command [kubectl -k wp-mysql/]
